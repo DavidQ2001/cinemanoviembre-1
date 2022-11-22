@@ -7,16 +7,16 @@ let peliculas=[
 
     },
     {
-        nombre:"COCODRILO",
+        nombre:"Erase una vez un genio",
         duracion:90,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/cocodrilo.jpg?alt=media&token=28f78224-6034-40f8-9079-5adef8c66a79",
-        sinopsis:"Un equipo de televisión viaja al continente africano para hacer un reportaje sobre un temible depredador que ha matado a más de 300 personas. Allí, un criminal africano complicará su misión."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/ERASE%20UNA%20VEZ%20UN%20GENIO1%20(1).jpg?alt=media&token=7ad08400-14cb-4fac-b51e-6554e830e604",
+        sinopsis:"Mientras asiste a una conferencia en Estambul, la doctora Binnie se encuentra con un genio que le ofrece tres deseos a cambio de libertad. Primero, la académica cree que está alucinando; después, como experta en mitos, sabe que la oferta es engañosa.",
     },
     {
-        nombre:"FEDORA",
+        nombre:"Vista por ultima vez",
         duracion:85,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/fedora.png?alt=media&token=70d257dd-61ed-4b4e-9166-12cbe5430dce",
-        sinopsis:"A base de flasbacks, recorremos la misteriosa vida de Fedora, una famosa actriz de Hollywood que muere atropellada."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/VISTA%20POR%20ULTIMA%20VEZ1.jpg?alt=media&token=b012cf85-20f9-4d74-8c8a-7e8636dc061e",
+        sinopsis:"La esposa de Will Spann desaparece en una estación de servicio. Desesperado y dispuesto a todo por encontrarla viva, Will emprende una búsqueda que lo conduce a enfrentarse a las fuerzas del orden y adentrarse en un camino hacia el abismo."
     },
     {
         nombre:"WAKANDA",
@@ -25,46 +25,87 @@ let peliculas=[
         sinopsis:"Una secuela que seguirá explorando el incomparable mundo de Wakanda y todos los ricos y variados personajes presentados en la película de 2018."
     },
     {
-        nombre: "HABITACION",
+        nombre: "Amsterdam",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/habitacion.png?alt=media&token=2a239102-fbf1-4279-8223-17ad9fe350c3",
-        sinopsis:"Desde que nació hace cinco años, Jack vive junto a su cariñosa y entregada madre en , el único mundo que el niño conoce, un pequeño cuarto en el que el captor de su madre los tiene retenidos."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/amsterdam.jpg?alt=media&token=907d3438-cd74-41d9-a7b1-f8696d69f13d",
+        sinopsis:"En la década de 1930, tres amigos que presencian un asesinato se convierten en sospechosos del mismo. La investigación que emprenden los lleva a descubrir una de las conspiraciones más asombrosas de la historia estadounidense.",
     },
     {
-        nombre: "SONRIE",
+        nombre: "La jauria",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/sonrie.jpg?alt=media&token=a4fb2b48-fc63-491c-92df-6a9ad3ee6e61",
-        sinopsis:"Después de ser testigo de un extraño y traumático accidente que involucró a una paciente, la Dr. Rose Cotter (Sosie Bacon) empieza a experimentar sucesos aterradores que no puede explicarse. A medida que el terror comienza a apoderarse de su vida, Rose debe enfrentarse a su pasado para sobrevivir y escapar de su horrible nueva realidad."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/lajauria.png?alt=media&token=7f4739eb-ee01-4406-a88c-1146fc23412e",
+        sinopsis:"En un centro de rehabilitación experimental en medio de la selva, Eliú paga una sentencia por asesinato. Cuando su mejor amigo y cómplice es trasladado al mismo lugar, los jóvenes deberán reconstruir su crimen y enfrentar un pasado del que Eliú se quiere alejar. En medio de terapias y trabajos forzados, Eliú se enfrentará a la oscuridad de la naturaleza humana y tratará de escapar de la suya antes de que sea demasiado tarde."
     },
     {
-        nombre: "LUZ DEL DIABLO",
+        nombre: "El rey",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/luz.png?alt=media&token=2da1f260-48b0-4c4d-8d7f-7a213ce5fdf5",
-        sinopsis:"Según informes reales del Vaticano, los casos de posesión demoníaca han aumentado significativamente en los últimos años. En respuesta, la iglesia católica ha reabierto en secreto escuelas de exorcismo para capacitar a los sacerdotes en este rito sagrado. LA LUZ DEL DIABLO te sumerge en el mundo de una de estas escuelas; última línea de defensa de la humanidad contra los poderes del mal eterno. Jacqueline Byers (“Roadies”, “Salvation”) interpreta a la hermana Ann, quien cree devotamente que realizar exorcismos es su vocación, a pesar de que históricamente sólo los sacerdotes, y no las hermanas, pueden realizarlos. Cuando un profesor siente su don especial decide aceptarla en el aula, lo que le permite ser la primera monja en estudiar y dominar el ritual. Su propia alma estará en peligro ya que las fuerzas demoníacas con las que lucha revelan una conexión misteriosa con su traumático pasado."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/elrey.jpg?alt=media&token=137df1a8-40bc-4549-aa30-5978cdca90b0",
+        sinopsis:"Hal, un príncipe caprichoso y sin interés por ejercer su derecho al trono de Inglaterra, ha abandonado las responsabilidades reales para vivir en libertad entre la plebe. Sin embargo, ante la muerte de su tirano padre, Hal se ve obligado a retomar la vida de la que quería huir para ser el nuevo rey: Enrique V. Después de su coronación, el joven monarca tendrá que aprender a lidiar con las intrigas palaciegas, una guerra y los lazos que le unen a su antigua vida.",
+  
     },
     {
-        nombre: "REENCARNACION",
+        nombre: "La noche Final",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/reencarnacion.png?alt=media&token=bc27562b-80fc-4dfb-8a04-80bd4739fe2e",
-        sinopsis:"Anna es una viuda que está a punto de empezar una nueva vida cuando aparece un niño que afirma ser la reencarnación de su difunto esposo."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/lanochefinal.jpg?alt=media&token=16eca18e-dcb3-4cc6-a3f0-782322e5e9fb",
+        sinopsis:"Cuatro años después de la desaparición de Michael Myers, el joven Corey lo encuentra maltrecho en las alcantarillas. Poco a poco, se establece un extraño vínculo entre estos dos personajes unidos por la venganza y la locura.",
+
     },
     {
-        nombre: "REYES DEL MUNDO",
+        nombre: "Supermascotas",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/reyesdelmundo.jpg?alt=media&token=8b2b648a-c4a6-4826-84e4-e4c56616225d",
-        sinopsis:"Un día todos los hombres se quedaron dormidos… Y los cercos de la tierra, ardieron” Rá (19), Culebro (16), Sere (14), Winny (12) Nano (13) cinco chicos de la calle de Medellín. Cinco reyes sin reino. En sus manos tienen unas viejas escrituras de una tierra heredada por Rá. Tras recibir una carta de la oficina de restitución de tierras del gobierno, notificando la devolución de los terrenos que le fueron arrebatados a su abuela, Rá decidirá emprender el viaje con sus amigos con la promesa de por fin cumplir un sueño: tener un lugar en el mundo donde ser libres, donde estar a salvo, donde construir su propio reino."
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/supermascotas.jpg?alt=media&token=079bad95-cf9e-499e-b6c0-1fd0d650e91e",
+        sinopsis:"Cuatro años después de la desaparición de Michael Myers, el joven Corey lo encuentra maltrecho en las alcantarillas. Poco a poco, se establece un extraño vínculo entre estos dos personajes unidos por la venganza y la locura.",
+
     },
- 
     {
-        nombre: "LA TRAVIATA",
+        nombre: "Tadeo",
         duracion:95,
-        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/traviata.png?alt=media&token=13822812-5dd4-40ab-8d0e-eccbc8008ebe",
-        sinopsis:"Radiotelevisione Italiana (RAI) Sinopsis: Violetta Valéry (Teresa Stratas) es una cortesana de los altos círculos parisinos amenazada por la tisis y el aturdimiento, que un buen día se enamora de un rico heredero provinciano, Alfredo Germont (Plácido Domingo), que la ama ardientemente y ansía librarla de sus males."
-    }
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/tadeo3nuevoposter.jpg?alt=media&token=9b7d50e3-1837-42e8-aef6-c2fdf370156c",
+        sinopsis:"Tadeo, un albañil que sueña con ser arqueólogo, es enviado por error a una expedición en Perú. Con la ayuda de su fiel perro Jeff, una intrépida profesora, un loro mudo y un buscavidas, intentará salvar la mítica ciudad perdida de los Incas de una malvada empresa de cazatesoros.",
+
+    },
+    
+    
+]
+
+
+let estrenos=[
+    {
+        nombre:"BLACK",
+        duracion:120,
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/black.png?alt=media&token=354fc0dd-b7a6-4b80-a69c-65c032c3b75a",
+        sinopsis:"Mavela, una adolescente de quince años, nunca conseguía encajar, hasta que entra en los Black Bronx, una conocida banda de jóvenes africanos. Allí se siente como en casa, es aceptada y, por primera vez, siente que está donde debe estar. Un día en comisaría conoce a Marwan, un magrebí de la banda rival y se enamoran. Juntos emprenderán una relación clandestina."
+
+    },
+    {
+        nombre:"Erase una vez un genio",
+        duracion:90,
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/ERASE%20UNA%20VEZ%20UN%20GENIO1%20(1).jpg?alt=media&token=7ad08400-14cb-4fac-b51e-6554e830e604",
+        sinopsis:"Mientras asiste a una conferencia en Estambul, la doctora Binnie se encuentra con un genio que le ofrece tres deseos a cambio de libertad. Primero, la académica cree que está alucinando; después, como experta en mitos, sabe que la oferta es engañosa.",
+    },
+    {
+        nombre:"Vista por ultima vez",
+        duracion:85,
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/VISTA%20POR%20ULTIMA%20VEZ1.jpg?alt=media&token=b012cf85-20f9-4d74-8c8a-7e8636dc061e",
+        sinopsis:"La esposa de Will Spann desaparece en una estación de servicio. Desesperado y dispuesto a todo por encontrarla viva, Will emprende una búsqueda que lo conduce a enfrentarse a las fuerzas del orden y adentrarse en un camino hacia el abismo."
+    },
+    {
+        nombre:"WAKANDA",
+        duracion:104,
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemadavid-d68c1.appspot.com/o/wakanda.jpg?alt=media&token=aae4abc8-c8d8-4d6a-a08a-a5695e84177e",
+        sinopsis:"Una secuela que seguirá explorando el incomparable mundo de Wakanda y todos los ricos y variados personajes presentados en la película de 2018."
+    },
+    {
+        nombre: "Amsterdam",
+        duracion:95,
+        poster:"https://firebasestorage.googleapis.com/v0/b/cinemaerikaquintero.appspot.com/o/amsterdam.jpg?alt=media&token=907d3438-cd74-41d9-a7b1-f8696d69f13d",
+        sinopsis:"En la década de 1930, tres amigos que presencian un asesinato se convierten en sospechosos del mismo. La investigación que emprenden los lleva a descubrir una de las conspiraciones más asombrosas de la historia estadounidense.",
+    },
 ]
 
 //creamos una referencia al espacio html donde queremos hacer al render(pintar etiquetas)
 let etiquetaFila =  document.getElementById("fila")
+let etiquetaFila2 =  document.getElementById("fila2")
 //si ya tengo datos que normalmente llegan al front como un arreglo de objetos debemos recorrer y depurar dicha informacion
 peliculas.forEach(function(pelicula){
     //para pintar la informacion de cada pelicula debemos aplicar una tecnica conocida como traversing
@@ -103,6 +144,47 @@ peliculas.forEach(function(pelicula){
     
 })
 
+estrenos.forEach(function(pelicula){
+
+    //para pintar la informacion de cada pelicula debemos aplicar una tecnica conocida como traversing
+    //traversing = crear etiquetas de html desde js
+    let columna = document.createElement("div")
+    columna.classList.add("col")
+
+    let tarjeta = document.createElement("div")
+    tarjeta.classList.add("card","h-100","shadow")
+
+    let poster = document.createElement("img")
+    poster.classList.add("img-fluid","w-100")
+    poster.src = pelicula.poster
+
+    let  duracion = document.createElement("h3")
+    duracion.classList.add("text-center")
+    duracion.textContent = "Duracion " + pelicula.duracion + "Min"
+
+    let nombre = document.createElement("h2")
+    nombre.classList.add("text-center")
+    nombre.textContent = pelicula.nombre
+
+    let sinopsis = document.createElement("p")
+    sinopsis.classList.add("d-none")
+    sinopsis.textContent = pelicula.sinopsis
+
+
+   //padres e hijos (jerarquia de etiquetas)
+
+    etiquetaFila2.appendChild(columna)
+    tarjeta.appendChild(duracion)
+    tarjeta.appendChild(nombre)
+    columna.appendChild(tarjeta)
+    tarjeta.appendChild(poster)
+    tarjeta.appendChild(sinopsis)
+})
+    
+    
+
+
+
 
 //escuchando el evento de click en alguna pelicula de la cartelera
 let peliculaSeleccionada = {}
@@ -113,7 +195,9 @@ etiquetaFila.addEventListener("click",function(evento){
        peliculaSeleccionada.imagen = evento.target.parentElement.querySelector("img").src
        peliculaSeleccionada.titulo = evento.target.parentElement.querySelector("h3").textContent
        peliculaSeleccionada.duracion = evento.target.parentElement.querySelector("h2").textContent
-       peliculaSeleccionada .sinopsis = evento.target.parentElement.querySelector("p").textContent
+       peliculaSeleccionada.sinopsis = evento.target.parentElement.querySelector("p").textContent
+       peliculaSeleccionada.banner = evento.target.parentElement.querySelector("img").src
+
 
        //enviando nuestros datos de la pelicula seleccionada a la memoria
        localStorage.setItem("pelicula",JSON.stringify(peliculaSeleccionada))
@@ -125,3 +209,7 @@ etiquetaFila.addEventListener("click",function(evento){
 
     
 })
+
+
+
+
